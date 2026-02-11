@@ -1,0 +1,32 @@
+body {
+    background-color: #1B0216
+}
+
+.logo {
+    position: absolute;
+    top: 20px;
+    width: 134.6px;
+    height: 134.6px;
+    border-radius: 50px;
+    left: 50px;
+}
+
+.navbar {
+    position: absolute;
+    top: 25px;
+    background-color: #a024ff;
+    width: 1800px;
+    height: 175px;
+    border-radius: 35px;
+}
+
+.Title {
+    position: absolute;
+    left: 200px;
+    top: 30px;
+    font-family: "Inria Serif", serif;
+    color: white;
+    font-size: 32px;
+    font-weight: 300;
+    text-transform: uppercase;
+}

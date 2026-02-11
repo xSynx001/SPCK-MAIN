@@ -1,0 +1,43 @@
+body {
+    background-color: #1B0216
+}
+
+.Welcome {
+    position: absolute;
+    left: 590px;
+    top: 150px;
+    Color: white;
+    width: 880px;
+    height: 83px;
+    font-size: 64px;
+    font-family: "Inria Serif", serif;
+    font-weight: 300;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.logo {
+    position: absolute;
+    top: 20px;
+    width: 134.6px;
+    height: 134.6px;
+    border-radius: 50px;
+}
+
+.Continues {
+    position:relative;
+    width: 605px;
+    height: 152px;
+    top: 350px;
+    left: 650px;
+    cursor: pointer;
+}
+
+.ctn {
+    position: absolute;
+    font-size: 64px;
+    color: white;
+    top: 30px;
+    left: 150px;
+    cursor: pointer;
+}

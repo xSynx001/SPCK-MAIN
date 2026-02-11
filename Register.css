@@ -1,0 +1,115 @@
+body {
+    background-color: #1B0216
+}
+
+.logo {
+    position: absolute;
+    top: 20px;
+    width: 134.6px;
+    height: 134.6px;
+    border-radius: 50px;
+}
+
+.grt {
+    position: absolute;
+    left: 750px;
+    top: 10px;
+    color: white;
+    font-family: "Inria Serif", serif;
+    font-size: 64px;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 100%;
+    width: 334px;
+    height: 77px;
+}
+
+.register {
+    position:relative;
+    width: 968px;
+    height: 419px;
+    top: 250px;
+    left: 450px;
+    background-color: #532D65;
+    border-radius: 50px;
+}
+
+.registerTitle {
+    position: absolute;
+    top: 25px;
+    left: 350px;
+    width: 181px;
+    height: 77px;
+    font-family: "Inria Serif", serif;
+    font-weight: 300px;
+    font-size: 64px;
+    color: white;
+    line-height: 100%;
+}
+
+.EmailRequires {
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    width: 138px;
+    height: 37px;
+    font-family: "Inria Serif", serif;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: white;
+}
+
+.Email_input {
+    position: absolute;
+    top: 140px;
+    left: 150px;
+    width: 600px;
+    height: 30px;
+    border-radius: 25px;
+}
+
+.PasswordRequires {
+    position: absolute;
+    top: 200px;
+    left: 150px;
+    width: 149px;
+    height: 46px;
+    font-weight: 300px;
+    font-family: "Inria Serif", serif;
+    font-size: 32px;
+    color: white;
+}
+
+.Password_input {
+    position: absolute;
+    top: 240px;
+    left: 150px;
+    width: 600px;
+    height: 30px;
+    border-radius: 25px;
+}
+
+.Regis {
+    position: absolute;
+    top: 350px;
+    left: 750px;
+    color: azure;
+    font-family: "Inria Serif", serif;
+    font-size: 32px;
+}
+
+.submit {
+    position: absolute;
+    top: 315px;
+    left: 390px;
+    color: white;
+    background-color: #7C3FA1;
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+    font-family: "Inria Serif", serif;
+    font-size: 32px;
+    text-align: center;
+    cursor: pointer;
+}
