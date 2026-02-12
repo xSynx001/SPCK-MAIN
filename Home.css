@@ -2,6 +2,10 @@ body {
     background-color: #1B0216
 }
 
+html, body {
+    zoom: 85%;
+}
+
 .logo {
     position: absolute;
     top: 20px;
@@ -15,7 +19,7 @@ body {
     position: absolute;
     top: 25px;
     background-color: #a024ff;
-    width: 1800px;
+    width: 1875px;
     height: 175px;
     border-radius: 35px;
 }
@@ -29,4 +33,126 @@ body {
     font-size: 32px;
     font-weight: 300;
     text-transform: uppercase;
+}
+
+.vnhistory {
+    position:absolute;
+    left: 650px;
+    top: 80px;
+    font-family: "Inria Serif", serif;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.europehistory {
+    position: absolute;
+    left: 950px;
+    top: 80px;
+    font-family: "Inria Serif", serif;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.userAvatar {
+    position: absolute;
+    top: 20px;
+    right: 155px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+}
+
+.user {
+    position: absolute;
+    top: 100px;
+    right: 140px;
+    font-family: "Inria Serif", serif;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.ngay2th9 {
+    position:absolute;
+    width: 1900px;
+    height: 10px;
+    background-color: white;
+    top: 400px;
+}
+
+.quockhanh {
+    position: absolute;
+    top: 150px;
+    left: 25px;
+    width: 900px;
+    height: 600px;
+    border-radius: 25px;
+}
+
+.qktitle {
+    position: absolute;
+    top: 50px;
+    left: 700px;
+    font-family: "Inria Serif", serif;
+    width: 700px;
+    height: 100px;
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.eventTitle {
+    position: absolute;
+    top: 250px;
+    left: 700px;
+    font-family: "Inria Serif", serif;
+    width: 700px;
+    height: 100px;
+    color: white;
+    
+}
+
+.quockhanhinfo {
+    position:absolute;
+    top: 200px;
+    left: 950px;
+    font-family: "Inria Serif", serif;
+    width: 900px;
+    height: 200px;
+    color: white;
+    font-size: 40px;
+}
+
+.dienbienphuimage {
+    position: absolute;
+    top: 1400px;
+    left: 25px;
+    width: 900px;
+    height: 600px;
+    border-radius: 25px;
+}
+
+.dbpTitle {
+    position: absolute;
+    top: 1300px;
+    color: white;
+    font-family: "Inria Serif", serif;
+    width: 700px;
+    height: 100px;
+    left: 700px;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.dbpinfo {
+    position: absolute;
+    top: 1450px;
+    left: 950px;
+    font-family: "Inria Serif", serif;
+    width: 900px;
+    height: 200px;
+    color: white;
+    font-size: 40px;
 }
