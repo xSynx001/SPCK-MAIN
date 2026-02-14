@@ -156,3 +156,33 @@ html, body {
     color: white;
     font-size: 40px;
 }
+
+.chiendichImg {
+    position: absolute;
+    top: 2200px;
+    left: 25px;
+    width: 900px;
+    height: 600px;
+    border-radius: 50px;
+}
+
+.chiendichTitle {
+    position: absolute;
+    color: white;
+    top: 2100px;
+    left: 700px;
+    font-family: "Inria Serif", serif;
+    font-size: 50px;
+    font-weight: 600px;
+}
+
+.chiendichInfo {
+    position: absolute;
+    top: 2220px;
+    left: 950px;
+    font-family: "Inria Serif", serif;
+    color: white;
+    width: 900px;
+    height: 200px;
+    font-size: 40px;
+}
