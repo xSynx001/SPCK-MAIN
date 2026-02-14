@@ -75,7 +75,7 @@ html, body {
 }
 
 .ngay2th9 {
-    position:absolute;
+    
     width: 1900px;
     height: 10px;
     background-color: white;
@@ -83,7 +83,7 @@ html, body {
 }
 
 .quockhanh {
-    position: absolute;
+
     top: 150px;
     left: 25px;
     width: 900px;
@@ -92,7 +92,7 @@ html, body {
 }
 
 .qktitle {
-    position: absolute;
+
     top: 50px;
     left: 700px;
     font-family: "Inria Serif", serif;
